@@ -1,0 +1,23 @@
+.paginated-container {
+    margin: 15px 0 15px 0;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+   
+}
+.paginated-container button{
+     border: solid 2px rgb(242, 232, 241);
+    box-shadow: inset 0 0 8px hsl(278, 92%, 32%) , 0 0 8px hsl(278, 92%, 34%);
+    border-radius: 5px;
+
+ }
+
+.paginated-container button {
+    font-size: 30px;
+    width: 40px;
+}
+
+.paginated-container button:hover {
+    background-color:hsl(278, 92%, 34%);
+    border-color: hsl(278, 92%, 34%);
+}

@@ -1,0 +1,20 @@
+body {
+  /* background-image: url('./img/pokemon-mewtwo-wallpaper-preview.jpg'); */
+  /* background-image: url('./img/pokemon-mew-mewtwo-video-games-wallpaper-preview2.jpg');
+  background-image: url('./img/pokemon-mew-mewtwo-video-games-wallpaper-preview.jpg');
+	background-image: url('./img/HD-wallpaper-pokeball-pokeball-pokemon-go-games-pokemon.jpg');
+  background-image: url('./img/pokemon-squirtle-bulbasaur-charmander-wallpaper-preview.jpg'); */
+  /* background-image: url('./img/20994.jpg'); */
+  background-image: url('./img/20998.jpg');
+  /* background-image: url('./img/24919.jpg'); */
+  /* background-image: url('./img/24921.png'); */
+    background-size:cover;
+    /* background-position:center; */
+    
+    background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

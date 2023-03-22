@@ -1,0 +1,9 @@
+.search-container input{
+    width: 500px;
+    height: 25px;
+    border-radius: 3px;
+    text-align: center;
+    border: solid  rgb(56, 55, 55);
+    box-shadow: inset 0 0 3px hsl(285, 2%, 37%) , 0 0 3px hsl(280, 2%, 31%);
+    margin-bottom: 10px;
+}
