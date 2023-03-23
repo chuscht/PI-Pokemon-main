@@ -9,7 +9,8 @@ import Detail from "./components/Detail";
 import LandingPage from "./components/LandingPage";
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:3001/";
+axios.defaults.baseURL =
+  "https://pi-pokemon-main-production-0511.up.railway.app/";
 
 function App() {
   return (
